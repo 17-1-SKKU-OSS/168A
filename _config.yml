@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://17-1-skku-oss.github.io/168A" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
+  fullname: skku-oss-168A
   googleplus: https://www.google.com/+MotaquillahMaddane
   github: kronik3r
   twitter: electrik_frog
