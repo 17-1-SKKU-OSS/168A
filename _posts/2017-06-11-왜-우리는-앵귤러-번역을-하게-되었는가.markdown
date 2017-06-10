@@ -14,13 +14,13 @@ categories: [translate]
 
 # 1. 한국에서 앵귤러의 위상은 해외와는 다르다
 전에 앵귤러JS가 나와서 그런건지 사실 현재 리액트는 한국어로 된 레퍼런스가 별로 없는지 배우기도 어렵고 개발자도 채용을 안한다. 검색 창만 봐도 알 수 있다.
-<figure>
-  <img src=https://user-images.githubusercontent.com/12888144/27004718-19cfb59a-4e49-11e7-847a-ea94979a293c.PNG />
-  <figcaption>*앵귤러의 위엄*</figcaption>
+<figure markdown='1'>
+  <img markdown='1' src=https://user-images.githubusercontent.com/12888144/27004718-19cfb59a-4e49-11e7-847a-ea94979a293c.PNG />
+  <figcaption markdown='1'>*앵귤러의 위엄*</figcaption>
 </figure>
-<figure>
-  <img src=(https://user-images.githubusercontent.com/12888144/27004731-4d64c6de-4e49-11e7-8224-857bd05fa005.PNG) />
-  <figcaption>리액트는 ~~투자회사~~ ~~리액트 코리아~~</figcaption>
+<figure markdown='1'>
+  <img markdown='1' src=(https://user-images.githubusercontent.com/12888144/27004731-4d64c6de-4e49-11e7-8224-857bd05fa005.PNG) />
+  <figcaption markdown='1'>리액트는 ~~투자회사~~ ~~리액트 코리아~~</figcaption>
 </figure>
 
 위와 같이 검색 결과만 봐도 대한민국이 앵귤러 개발자를 리액트보다 많이 채용한다는 것을 알 수 있다.
