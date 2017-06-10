@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-subtitle: "Feel home!"
-date:   2015-09-06 23:34:01
+title:  "왜 우리는 앵귤러 번역을 하게 되었는가"
+subtitle: "도대체 왜"
+date:   2017-06-11 2:03:01
 categories: [design, tool]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+2016년은 프론트엔드 개발자에게 있어서는 매우 혼란스러운 일이었다. 웹 앱 프레임워크들이 수도없이 미디어에 등장하였기 때문이다. 그 중에서도 앵귤러는 한 자리를 차지하고 있었다. 그런데 이게 왠 일인가. 2017년 해외 커뮤니티들은 리액트를 찬양하고 있다. 그런데 왜 우리는 앵귤러를 번역하고 있을까. 사실 앵귤러는 여러 측면에서 장점을 지니고 있다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# 1. 한국에서 앵귤러의 위상은 해외와는 다르다
+전에 앵귤러JS가 나와서 그런건지 사실 현재 리액트는 한국어로 된 레퍼런스가 별로 없다. 검색 창을 봐도 알 수 있다.
 
-Jekyll also offers powerful support for code snippets:
+![default](https://user-images.githubusercontent.com/12888144/27004718-19cfb59a-4e49-11e7-847a-ea94979a293c.PNG)
+앵귤러의 위엄
+![default](https://user-images.githubusercontent.com/12888144/27004731-4d64c6de-4e49-11e7-8224-857bd05fa005.PNG)
+리액트는 ~~투자회사~~ ~~리액트 코리아~~
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+위와 같이 검색 결과만 봐도 대한민국이 앵귤러 개발자를 리액트보다 많이 채용한다는 것을 알 수 있다.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+2. 앵귤러는 Typescript를 사용한다.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+한 때 앵귤러가 처음 나왔을 때 typescript를 사용해서 타입을 명시화해줌으로써 디버깅을 좀 더 쉽게 해준다는 점을 강조한 적이 있다. ~~그런데 이제 리액트도 쓸 수 있다~~ ~~망했어요~~
+
+3. 앵귤러는 framework고 리액트는 library다.
+
+
