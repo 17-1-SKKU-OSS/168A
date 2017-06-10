@@ -1,10 +1,8 @@
 # Site settings
 title: SKKU-OSS-168A
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+    성균관대  오픈소스 소프트웨어실습 168A 팀 블로그입니다.
+    
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://17-1-skku-oss.github.io/168A" # the base hostname & protocol for your site
 
