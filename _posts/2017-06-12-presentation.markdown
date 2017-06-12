@@ -8,9 +8,4 @@ categories: [presentation]
 
 <iframe class="iframe-resopnsive" src="//slides.com/cshwan/angular/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-.iframe-responsive {
-    max-width: 100%;
-    height: auto;
-    display: block;
-}
-
+<style> .iframe-responsive { max-width: 100%; height: auto; display: block; } </style>
