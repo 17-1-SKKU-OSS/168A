@@ -19,11 +19,11 @@ Team Page : [https://17-1-skku-oss.github.io/168A/](https://17-1-skku-oss.github
 ## 168A Team 구성원 소개 (github account & email)
 
 
-강형석 : hskang9 / hskang9@gmail.com
+강형석 : hskang9 / [hskang9@gmail.com](mailto:hskang9@gmail.com)
 
-김준영 : bluecri / kjy_1234567@naver.com
+김준영 : bluecri / [kjy_1234567@naver.com](mailto:kjy_1234567@naver.com)
 
-조성환 : cshwan96 / csh4129@naver.com
+조성환 : cshwan96 / [csh4129@naver.com](mailto:csh4129@naver.com)
 
 <center> SKKU OSS 2017 - Team 168A <Center>
 
