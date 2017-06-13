@@ -9,11 +9,11 @@ permalink: /about/
 
 오픈소스프로젝트 수업 18조인 168A Team입니다. 저희 팀은 웹 프로그래밍 front-end framework 중 하나인 AngularJS의 공식 가이드라인을 한글화 하는 프로젝트에 참여 활동 하기로 선택하였습니다.
 
-Team Github : https://github.com/17-1-SKKU-OSS/angular-ko
+Team Github : [https://github.com/17-1-SKKU-OSS/angular-ko](https://github.com/17-1-SKKU-OSS/angular-ko)
 
-Team Wiki : https://github.com/17-1-SKKU-OSS/angular-ko/wiki
+Team Wiki : [https://github.com/17-1-SKKU-OSS/angular-ko/wiki](https://github.com/17-1-SKKU-OSS/angular-ko/wiki)
 
-Team Page : https://17-1-skku-oss.github.io/168A/
+Team Page : [https://17-1-skku-oss.github.io/168A/](https://17-1-skku-oss.github.io/168A/)
 
 
 ## 168A Team 구성원 소개 (github account & email)
